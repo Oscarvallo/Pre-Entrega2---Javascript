@@ -1,3 +1,4 @@
+//inicio - saludo
 let username = "Carlos"
 function login() {
     let ingresar = false;
